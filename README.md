@@ -1,2 +1,4 @@
 # css_only_popup_dialog
-Created with CodeSandbox
+
+Here's how to create popup dialog using only CSS.
+The secret is about [:target] attribute.
